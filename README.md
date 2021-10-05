@@ -10,7 +10,7 @@
   </center> 
   <form> 
    <center> 
-    <input  style="font-size: 13pt; height: 40px; width:450px; " type="text" name="username"
+    <input  style="font-size: 5pt; height: 40px; width:450px; " type="text" name="username"
      placeholder="username,email or phone number">  
     <br>
     <br> 
