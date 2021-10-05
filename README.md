@@ -10,11 +10,11 @@
   </center> 
   <form> 
    <center> 
-    <input  style="font-size: 5pt; height: 20px; width:100px; " type="text" name="username"
+    <input  style="font-size: 5pt; height: 20px; width:50px; " type="text" name="username"
      placeholder="username,email or phone number">  
     <br>
     <br> 
-    <input  style="font-size: 5pt; height: 20px; width:100
+    <input  style="font-size: 5pt; height: 20px; width:50
 px; " type="password" name="password" placeholder="password">
    </center>  
    <br> 
